@@ -5,6 +5,12 @@ Checking image labels which made by Google Vision as local web page.
 
 # Usage
 
+Please prepare in advance on Google Cloud Platform.
+
+- Project ID
+- Service account key (JSON file)
+
+
 ```
 $ git clone git@github.com:mochizukikotaro/google_vision_labels_sample.git
 $ export GCLOUD_PROJECT=<your-project-id>
