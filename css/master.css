@@ -1,0 +1,14 @@
+body {
+  padding: 20px 40px;
+}
+table {
+  border-collapse: collapse;
+}
+th, td {
+  border: solid 1px #ccc;
+  padding: 10px;
+}
+
+img {
+  width: 160px;
+}

@@ -1,0 +1,10 @@
+images/0169201435523.jpg	supervillain
+images/0171251432760.jpg	photomontage,collage,hairstyle,spring
+images/0171251432978.jpg	text,font,calligraphy,brand,logo
+images/0171251433176.jpg	cartoon,food,illustration
+images/0171251434958.jpg	cartoon,anime,mangaka,mouth,illustration
+images/0370931436248.jpg	collage,art,photomontage,design,brand
+images/0371921431109.jpg	cartoon,anime,arm,comics,hand
+images/0372911433713.jpg	hairstyle,photomontage,collage,brand
+images/0493171431096.jpg	cartoon,comic book,sketch,drawing,illustration
+images/0493171434195.jpg	text,cartoon,font,diagram,circle
