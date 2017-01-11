@@ -13,6 +13,8 @@ Please prepare in advance on Google Cloud Platform.
 
 ```
 $ git clone git@github.com:mochizukikotaro/google_vision_labels_sample.git
+$ cd google_vision_labels_sample
+$ npm install
 $ export GCLOUD_PROJECT=<your-project-id>
 $ export GOOGLE_APPLICATION_CREDENTIALS=<path_to_service_account_file>
 $ sh batch.sh
