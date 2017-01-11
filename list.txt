@@ -8,3 +8,5 @@ images/0371921431109.jpg	cartoon,anime,arm,comics,hand
 images/0372911433713.jpg	hairstyle,photomontage,collage,brand
 images/0493171431096.jpg	cartoon,comic book,sketch,drawing,illustration
 images/0493171434195.jpg	text,cartoon,font,diagram,circle
+images/man.png	bodybuilder,muscle,bodybuilding,man,male
+images/muscle.png	bodybuilder,barechestedness,active undergarment,clothing,underpants
